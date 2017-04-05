@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value = "le_temps" />
+    <version value="1" />
+    <list>
+        <mapping class = "com.royce.letemps.db.Province" />
+        <mapping class = "com.royce.letemps.db.City" />
+        <mapping class = "com.royce.letemps.db.County" />
+    </list>
+</litepal>
